@@ -42,7 +42,7 @@ Touch是一个轻量级的移动事件库，解决移动端存在的click 300ms�
 
 <body>
   <ul>
-    <li>sdffffaa</li>
+    <li id="li">sdffffaa</li>
   </ul>
   <div id="di" style="width:100%;height:200px;background:green;opacity:0.5;position:absolute"></div>
   <input id="box" type="text">fffff</button>
